@@ -1,0 +1,5 @@
+empid,empname,empsalary
+1,david,1000
+2,Miller,2000
+3,Kholi,3000
+4,ABD,4000

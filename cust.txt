@@ -1,0 +1,9 @@
+cid,cname,clocation
+1,rama,hyderabad
+2,sai,chennai
+3,krishna,banglore
+4,srinu,pune
+1,rama,hyderabad
+2,sai,chennai
+3,krishna,banglore
+4,srinu,pune
